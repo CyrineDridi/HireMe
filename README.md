@@ -12,9 +12,9 @@ sur les offres d’emploi diffusées tout en facilitant les échanges entre cand
 C’est pour cette raison qu’on a développé une application mobile « Hire me » sous forme de quiz, afin de faciliter 
 la procédure du recrutement chez l’étudiant en minimisant ses perturbations.
 Notre application comporte 3 parties essentielles :
-1/ Des quiz décrivant la société globalement.
-2/ Des questions « de réflexions ». 
-3/ choisir une image qui représente le candidat. 
+ 1/ Des quiz décrivant la société globalement.
+ 2/ Des questions « de réflexions ». 
+ 3/ choisir une image qui représente le candidat. 
 Quand l’étudiant termine le quiz, il doit taper son adresse mail et finalement, selon le résultat, le candidat va 
 être accepté ou refusé 
 
